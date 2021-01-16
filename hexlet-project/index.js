@@ -1,3 +1,3 @@
 console.log('Hi, Ivan Baranov');
-import _ from "lodash";
-_.
+//import _ from "lodash";
+//_.
